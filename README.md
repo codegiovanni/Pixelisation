@@ -1,2 +1,2 @@
 # Pixelisation
-Pixelate image using Open CV
+Pixelate image using OpenCV

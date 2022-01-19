@@ -8,7 +8,7 @@ img_input = cv2.imread('input/cat.jpg')
 height, width = img_input.shape[:2]
 # print(width, height)
 
-pixel_size =
+pixel_size = 10
 new_width, new_height = (width // pixel_size, height // pixel_size)
 # print(new_width, new_height)
 
